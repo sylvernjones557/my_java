@@ -61,3 +61,4 @@ class Rectangle extends Shapes{
 
     }
  }
+ /*this program uses constructor overloading concept for class which inherited one among other */
